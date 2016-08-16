@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\sagar_new_android\\Android-master\\S_FrameAnimationExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\pp.jpg",
+        "source": "E:\\sagar_new_android\\Android-master\\S_FrameAnimationExample\\app\\src\\main\\res\\drawable-mdpi\\pp.jpg"
+    },
+    {
+        "merged": "E:\\sagar_new_android\\Android-master\\S_FrameAnimationExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\sagar_new_android\\Android-master\\S_FrameAnimationExample\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\sagar_new_android\\Android-master\\S_FrameAnimationExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\aaa.jpg",
+        "source": "E:\\sagar_new_android\\Android-master\\S_FrameAnimationExample\\app\\src\\main\\res\\drawable-mdpi\\aaa.jpg"
+    },
+    {
+        "merged": "E:\\sagar_new_android\\Android-master\\S_FrameAnimationExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon.png",
+        "source": "E:\\sagar_new_android\\Android-master\\S_FrameAnimationExample\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\sagar_new_android\\Android-master\\S_FrameAnimationExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ll.jpg",
+        "source": "E:\\sagar_new_android\\Android-master\\S_FrameAnimationExample\\app\\src\\main\\res\\drawable-mdpi\\ll.jpg"
+    },
+    {
+        "merged": "E:\\sagar_new_android\\Android-master\\S_FrameAnimationExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tulip.jpg",
+        "source": "E:\\sagar_new_android\\Android-master\\S_FrameAnimationExample\\app\\src\\main\\res\\drawable-mdpi\\tulip.jpg"
+    }
+]

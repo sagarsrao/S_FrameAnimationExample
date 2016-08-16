@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "E:\\sagar_new_android\\Android-master\\S_FrameAnimationExample\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "E:\\sagar_new_android\\Android-master\\S_FrameAnimationExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 140,
+                        "endColumn": 60,
+                        "endOffset": 196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 116,
+                    "endColumn": 79,
+                    "endOffset": 191
+                },
+                "from": {
+                    "file": "E:\\sagar_new_android\\Android-master\\S_FrameAnimationExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 79,
+                        "endOffset": 134
+                    }
+                }
+            }
+        ]
+    }
+]
